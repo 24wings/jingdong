@@ -8,11 +8,11 @@
 1. [前言](#README)
 
 ### 第一部分 导航栏
-1. [css权重](#docs/navbar/1.css权重)
-1. [盒模型](#docs/navbar/2.盒模型)
-1. [定位](#docs/navbar/3.定位)
-1. [字符串的扩展](#docs/4.css下拉菜单)
-
+1. [css权重](#docs/1.1.css权重)
+1. [盒模型](#docs/1.2.盒模型)
+1. [定位](#docs/1.3.定位)
+1. [京东下拉菜单](#docs/1.4.css下拉菜单)
+1. [课后：京东商城导航栏](#docs/1.5.课后京东商城导航栏)
 
 课后作业
 
@@ -44,5 +44,4 @@
 
 ## 其他
 - [源码](http://github.com/24wings/jingdong.git)
-- [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages)
-- [反馈意见](https://github.com/ruanyf/es6tutorial/issues)
+- [反馈意见](https://github.com/24wings/jingdongl/issues)
